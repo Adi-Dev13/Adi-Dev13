@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AdityaNambidi
 - 👀 I do  Game Dev, AI, Robotics, Web development and other things.
 - 🌱 I’m currently learning nothing cuz i aldredy know everything
-- 
